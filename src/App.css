@@ -383,7 +383,7 @@ header {
     font-size: 1.4rem;
   }
 
-  .rightWrapper .breadcrumb {
+  .rightWrapper .breadcrumb, .sidebarResults {
     display: block;
   }
 
